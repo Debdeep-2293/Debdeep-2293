@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Debdeep-2293
 - 👀 I’m interested in Development
-- 🌱 I’m currently learning Java and Python
+- 🌱 I’m currently learning Java, React and Python
 
 
 <!---
